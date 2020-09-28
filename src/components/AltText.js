@@ -1,5 +1,5 @@
 import { h } from "preact";
 
-export default function Image(props) {
-  return <div></div>;
+export default function AltText(props) {
+  return <div>Alt</div>;
 }
