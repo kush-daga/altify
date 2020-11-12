@@ -1,5 +1,5 @@
 # altify
-
+A project to get alt tags for images
 ## CLI Commands
 
 ``` bash
